@@ -41,8 +41,8 @@ main_layout.addLayout(layoutH1)
 main_layout.addLayout(layoutH2) 
 main_layout.addLayout(layoutH3) 
 
-button_1.clicked.connect(lose) 
-button_2.clicked.connect(win) 
+button_1.clicked.connect(win) 
+button_2.clicked.connect(lose) 
 button_3.clicked.connect(lose) 
 button_4.clicked.connect(lose) 
 
